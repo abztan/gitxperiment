@@ -1,1 +1,1 @@
-#Gitignore this whole folder pls
+#Gitignore this whole repository pls
