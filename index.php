@@ -9,7 +9,7 @@ error_reporting(E_ALL);
 
   echo "A is " . $a->get_name() . " while B is " . $b->get_name();
 
-  $c = new employee("bruce wayne");
+  $c = new employee("bruce won");
 
   echo " C Employee " . $c->get_name();
 
